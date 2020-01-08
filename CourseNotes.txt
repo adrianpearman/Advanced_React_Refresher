@@ -1,0 +1,4 @@
+Enzyme API
+Static - Render the gicen component and return plain html
+Shallow - render just the given component and none of its children
+Full DOM - render the compoeneent and all of its children + let us modify it later 
